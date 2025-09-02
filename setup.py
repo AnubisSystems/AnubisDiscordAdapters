@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="anubis_discord_adapters",
-    version="0.0.3",
+    version="0.0.4",
     author="Jose Manuel Herera Saenz",
     author_email="incubadoradepollos@gmail.com",
     description="Core for Anubis System",
