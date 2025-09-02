@@ -1,0 +1,15 @@
+Licencia de Uso Educativo y Personal (Basada en Apache 2.0)
+
+Copyright (c) [Año] Jose Manuel Herrera Saenz
+
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para utilizar el Software exclusivamente con fines educativos, personales o de investigación, sujeto a las siguientes condiciones:
+
+1. **Restricción de uso comercial**: Queda estrictamente prohibido el uso del Software con fines comerciales, lucrativos o en entornos empresariales sin el consentimiento expreso y por escrito del titular de los derechos.
+
+2. **Atribución**: Se debe conservar este aviso de copyright y la presente licencia en todas las copias o partes sustanciales del Software.
+
+3. **Protección de patentes**: Esta licencia incluye una concesión expresa de derechos de patente del titular, limitada al uso permitido por esta licencia.
+
+4. **Sin garantía**: El Software se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita.
+
+Para obtener una licencia comercial, consulta el archivo `COMMERCIAL_LICENSE.txt` o contacta con incubadoradepollos@gmail.com.
